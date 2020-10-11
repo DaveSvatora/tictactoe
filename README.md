@@ -1,3 +1,9 @@
+# React Example
+
+This is the react tutorial with a bit of extra styling.
+
+![example](tictactoe.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
